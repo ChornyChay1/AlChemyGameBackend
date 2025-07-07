@@ -42,6 +42,6 @@ API будет доступен по адресу: http://localhost:8000
 ---
 ## Связанный репозиторий
 
-Frontend : [Frontend](https://github.com/ChornyChay1/AlChemyGameFrontend)   
+Frontend : [Frontend.](https://github.com/ChornyChay1/AlChemyGameFrontend)   
 
  
