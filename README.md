@@ -39,4 +39,9 @@ API будет доступен по адресу: http://localhost:8000
 - [SQLAlchemy](https://www.sqlalchemy.org/) — ORM для работы с базой данных  
 - [Hypercorn](https://pgjones.gitlab.io/hypercorn/) — ASGI сервер для запуска приложения
 
+---
+## Связанный репозиторий
+
+Frontend : [Frontend](https://github.com/ChornyChay1/AlChemyGameFrontend)   
+
  
